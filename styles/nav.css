@@ -17,3 +17,6 @@ footer{
 body{
     margin: 20px;
 }
+fieldset{
+    width: 300px;
+}
