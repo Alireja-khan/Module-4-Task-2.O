@@ -18,19 +18,40 @@ body{
     margin: 20px;
 }
 fieldset{
-    width: 300px;
+    width: 400px;
 }
-td, thead, th{
-    border: 2px solid black;
-    padding: 5px 20px;
-    text-align: center;
-}
-table, thead{
-    border-collapse: collapse ;
-}
-body header h1{
-    text-align: center;
-}
-nav{
-    text-align: center;
-}
+    td, thead, th{
+        border: 2px solid black;
+        padding: 5px 20px;
+        text-align: center;
+    }
+    table, thead{
+        border-collapse: collapse ;
+    }
+    body header h1{
+        text-align: center;
+    }
+    nav{
+        text-align: center;
+    }
+    label #Name, #Phone{
+        font-size: large;
+        padding: 5px;
+    }
+    .label-1 {
+        padding: 5px;
+        font-size: large;
+        display: block;
+        
+    }
+    .label-2{
+        font-size: larger;
+        padding: 5px;
+        text-align: center;
+    }
+    .label-3{
+        font-size: larger;
+        padding: 5px;
+        text-align: center;
+    }
+    
